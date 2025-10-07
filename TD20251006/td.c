@@ -22,4 +22,4 @@ int main(int argc, const char *argv[])
 
 	char b = 112;
 	printf("b = %c\n", b);
-}
+}//fin
