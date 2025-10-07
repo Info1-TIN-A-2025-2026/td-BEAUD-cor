@@ -58,4 +58,7 @@ int main(int argc, const char *argv[])
 	printf("ret = %d\n", ret);
 	printf("x = %.4f\n", x);
 	printf("y = %.4f\n", y);
+
+	char a = 0;
+	scanf("%hhd", &a);
 }
